@@ -71,15 +71,14 @@ Entre sus principales características tenemos, las llaves de encriptación y lo
 
  <p align="center">
 
-### Aquí el texto se encripta
-![demo1](https://github.com/user-attachments/assets/b311dc4e-75a7-4099-9518-60d910d24a79) 
+### Aquí el texto es encriptado
+
+![demo1](https://github.com/user-attachments/assets/54472acf-9e64-44e3-be51-79efb6f1a56e)
 
 
-### Aquí el texto encriptado se desencripta
-![demo2](https://github.com/user-attachments/assets/5679db8f-a439-4994-8541-b246ca2ed2f3) 
+### Aquí el texto encriptado es desencriptado
 
-
-
+![demo2](https://github.com/user-attachments/assets/878581cd-7781-4763-b30d-31d2919900c1)
 
 </p>
 ---
