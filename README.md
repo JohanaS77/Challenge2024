@@ -8,19 +8,19 @@
 
 # Indice 
 
-- [Descrición del proyecto](#descripcion-del-proyecto)
-  
-- [Estado del proyecto](#Estado-del-proyecto)
+- [Descripción del Proyecto](#descripción-del-proyecto)
 
-- [Características de la aplicación](#Características-de-la-aplicación-y-demostración)
+- [Estado del proyecto](#estado-del-proyecto)
 
-- [Demostracción de la aplicación](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación](#características-de-la-aplicación)
+
+- [Demostración de la aplicación](#demostración-de-la-aplicación)
 
 - [Conclusión](#conclusión)
 
 ---
 
-## Descripción del proyecto 
+## Descripción del Proyecto 
 
 <p align="justify">
  Este proyecto se presenta como requisito para continuar con la formación en programación. Consiste en un encriptador de texto desarrollado con JavaScript, HTML y CSS para el desafío del Proyecto ONE de Oracle+Alura LATAM .
@@ -35,31 +35,39 @@
 
 ---
 
-### Estado del proyecto
+## Estado del proyecto
 
 A esten proyecto se le han hecho modificaciones en cuento al color, tipo de letra, imagenes. Pero aún se le puede modificar muchas más estructuras, por ello se encuentra aún en construcción.
 
 ---
 
-### Características de la aplicación
+## Características de la aplicación
 
 Entre sus principales caracteristicas tenemos, las llaves de encriptación y los requisitos que debe tener encuenta el usuario al momento de utilizar el juego
 
-:marca de verificación pesada: `Llaves de encriptación: `
--La letra "**a**" se convierte en "**ai**".
--La letra "**e**" se convierte en "**enter**".
--La letra "**i**" se convierte en "**imes**".
--La letra "**o**" se convierte en "**ober**".
--La letra "**u**" se convierte en "**ufat**".
+`Llaves de encriptación: ` 
 
-:marca de verificación pesada: `Requisitos: `
--Solo funciona con letras minúsculas.
--No se utilizan acentos ni caracteres especiales.
--Se convierte una palabra o texto z versión encriptada y también una palabra o frase encritada a versión original.
+- La letra "**a**" se convierte en "**ai**".
+
+- La letra "**e**" se convierte en "**enter**".
+
+- La letra "**i**" se convierte en "**imes**".
+
+- La letra "**o**" se convierte en "**ober**".
+
+- La letra "**u**" se convierte en "**ufat**".
+
+`Requisitos:`
+
+- Solo funciona con letras minúsculas.
+
+- No se utilizan acentos ni caracteres especiales.
+
+- Se convierte una palabra o texto z versión encriptada y también una palabra o frase encritada a versión original.
 
 ---
 
-### Demostración de la aplicación
+## Demostración de la aplicación
 
  <p align="center">
 
@@ -72,7 +80,7 @@ Entre sus principales caracteristicas tenemos, las llaves de encriptación y los
 </p>
 ---
 
-### Personas contribuyentes
+## Personas contribuyentes
 
 Este proyecto fue mejorado en su aspecto visual por Johana Saavedra, estuadiante del Proyecto ONE de Oracle+Alura LATAM.
 
@@ -80,7 +88,7 @@ Este proyecto fue mejorado en su aspecto visual por Johana Saavedra, estuadiante
 
 ---
 
-### Conclusión
+## Conclusión
 
 El mundo de la programación es fascinante, pues te permite explorar situaciones en las que antes era imposible navegar, te ayuda a el desarrollo del pensamiento lógico, la creatividad y la innovación permitiendo hacer volar tu inmaginación y generando proyectos que contribuyen al avance de la ciencia y del día a día de las personas.
 Gracias al Proyecto ONE de Oracle+Alura LATAM que me permite formarme como programadora y vivir esta experiencia maravillosa.
