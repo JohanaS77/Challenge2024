@@ -37,13 +37,13 @@
 
 ## Estado del proyecto
 
-A esten proyecto se le han hecho modificaciones en cuento al color, tipo de letra, imagenes. Pero aún se le puede modificar muchas más estructuras, por ello se encuentra aún en construcción.
+A este proyecto se le ha hecho modificaciones en cuento al color, tipo de letra, imágenes, pero aún se le puede realizar modificaciones as más estructuras, por ello se encuentra aún en construcción.
 
 ---
 
 ## Características de la aplicación
 
-Entre sus principales caracteristicas tenemos, las llaves de encriptación y los requisitos que debe tener encuenta el usuario al momento de utilizar el juego
+Entre sus principales características tenemos, las llaves de encriptación y los requisitos que debe tener encuenta el usuario al momento de utilizar el juego
 
 `Llaves de encriptación: ` 
 
@@ -71,10 +71,14 @@ Entre sus principales caracteristicas tenemos, las llaves de encriptación y los
 
  <p align="center">
 
-![demo1](https://github.com/user-attachments/assets/b311dc4e-75a7-4099-9518-60d910d24a79)
+### Aquí el texto se encripta
+![demo1](https://github.com/user-attachments/assets/b311dc4e-75a7-4099-9518-60d910d24a79) 
 
 
-![demo2](https://github.com/user-attachments/assets/5679db8f-a439-4994-8541-b246ca2ed2f3)
+### Aquí el texto encriptado se desencripta
+![demo2](https://github.com/user-attachments/assets/5679db8f-a439-4994-8541-b246ca2ed2f3) 
+
+
 
 
 </p>
